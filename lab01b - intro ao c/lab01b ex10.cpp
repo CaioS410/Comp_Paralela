@@ -1,6 +1,4 @@
-/* 5 Crie um programa capaz de multiplicar uma linha de uma matriz de inteiros
-por um dado número. Faca o mesmo para uma coluna. A matriz deve ser lida de
-teclado.*/
+/* 10. Crie uma função capaz de multiplicar uma linha de uma matriz por um dado número. Faça o mesmo para uma coluna.*/
 
 #include <iostream>
 
