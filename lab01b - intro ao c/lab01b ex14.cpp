@@ -1,4 +1,4 @@
-/*13. Faça um rotina que remova um caracter de uma string do tipo char Str[100], dada a posição do caracter.*/
+/*14. Faça uma rotina que insira um caracter em uma string do tipo char Str[100], dada a posição do caracter.*/
 
 #include <iostream>
 
